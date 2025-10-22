@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="scipy" />
+            <item index="1" class="java.lang.String" itemvalue="transformers" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="torch" />
+            <item index="4" class="java.lang.String" itemvalue="numpy" />
+            <item index="5" class="java.lang.String" itemvalue="torchvision" />
+            <item index="6" class="java.lang.String" itemvalue="pandas" />
+            <item index="7" class="java.lang.String" itemvalue="tqdm" />
+            <item index="8" class="java.lang.String" itemvalue="seaborn" />
+            <item index="9" class="java.lang.String" itemvalue="starlette" />
+            <item index="10" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="11" class="java.lang.String" itemvalue="pillow" />
+            <item index="12" class="java.lang.String" itemvalue="fastapi-cdn-host" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dgl.nn.GATConv" />
+          <option value="pythonProject2.机器学习第一次实验.大创2.app.gensim" />
+          <option value="pythonProject2.机器学习第一次实验.大创3.舆情预测.input_data" />
+          <option value="pythonProject2.机器学习第一次实验.大创3.舆情预测.requests" />
+          <option value="pythonProject2.机器学习第一次实验.大创3.舆情预测.url" />
+          <option value="llama_index.vector_stores" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
